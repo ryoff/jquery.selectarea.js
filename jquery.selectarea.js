@@ -70,8 +70,6 @@
                 state.box.css('left', state.px);
                 state.box.css('width', state.sx - state.px);
             }
-            // debug
-            $('#info').text("state: " + state.down + '   px:'+state.px+' py:'+state.py+' sx:'+state.sx+' sy:'+state.sy);
             return false;   
         };
 
