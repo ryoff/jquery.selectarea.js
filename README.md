@@ -1,4 +1,4 @@
-# jquery selectarea js (開発途中)
+# jquery selectarea js
 
 ## 概要
 * $('#hoge').selectArea();
